@@ -39,7 +39,7 @@ public class GameOfChance {
 				} else {
 					int reroll;
 					do {
-						int bet2; 	
+						int bet2;
 						do {
 							System.out.println("Place a bet that is higher than the previous bet");
 							bet2 = scanner.nextInt();
@@ -57,6 +57,7 @@ public class GameOfChance {
 			}
 		} else {
 			System.out.println("Thank you for playing, your final balance was: " + balance);
+			System.out.println("TESTING");
 		}
 	}
 }
