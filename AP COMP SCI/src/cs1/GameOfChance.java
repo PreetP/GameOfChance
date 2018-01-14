@@ -57,7 +57,7 @@ public class GameOfChance {
 			}
 		} else {
 			System.out.println("Thank you for playing, your final balance was: " + balance);
-			System.out.println("TESTING");
+			System.out.println("TESTING1");
 		}
 	}
 }
